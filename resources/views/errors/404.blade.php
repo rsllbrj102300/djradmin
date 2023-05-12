@@ -55,7 +55,7 @@
 <div class="footer text-center">
     <ul class="list-inline list-separator">
         <li class="list-inline-item">
-            <a class="list-separator-link" target="_blank" href="https://6amtech.com/">groFresh Support</a>
+
         </li>
     </ul>
 </div>
